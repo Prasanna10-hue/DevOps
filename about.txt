@@ -1,0 +1,3 @@
+Name : B.Prasanna 
+Course : BSC-Data Science-2
+About GitHub : GitHub is a platform for hosting and sharing code.It enables collaboration, version control, and open-source development.
